@@ -1,4 +1,6 @@
 # Image-Compression
+The main idea of the project is to reduce the size of the image by reducing the resolution and image quality. 
+This has been done by using OpenCV. Here i had taken the image 'cameraman.jpeg' and reduced the resolution by x% percent as in put parameter. 
 
 ## Compile and Running
 #### Compiling
